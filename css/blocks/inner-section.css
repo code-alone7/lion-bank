@@ -1,0 +1,20 @@
+.inner-section{
+  background-color: white;
+  color: #202020;
+  padding: 87px 0 117px;
+}
+.inner-section__title{
+  font-size: 48px;
+  margin-bottom: 78px;
+  font-weight: 700;
+}
+.inner-section--review{
+  padding-top: 72px;
+  padding-bottom: 72px;
+}
+.inner-section--review .inner-section__title{
+  margin-bottom: 45px;
+}
+.inner-section--bg--gray{
+  background-color: #F4F5F5;
+}

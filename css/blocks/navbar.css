@@ -1,0 +1,21 @@
+.navbar{
+  font-size: 14px;
+}
+.navbar__list{
+  display: flex;  
+}
+.navbar__item{
+  display: inline;
+  margin-right: 55px;
+  transition:  color 100ms;
+  -webkit-transition:  color 100ms;
+  -moz-transition:  color 100ms;
+  -ms-transition:  color 100ms;
+  -o-transition:  color 100ms;
+}
+.navbar__item:last-child{
+  margin-right: 0;
+}
+.navbar__item:hover, .navbar__item--active{
+  color: #D3A557;
+}
